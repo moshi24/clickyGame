@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "assets/images/ahri.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "assets/images/akali.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "assets/images/brand.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "assets/images/garen.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "assets/images/irelia.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "assets/images/kayn.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "assets/images/lux.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "assets/images/malphite.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "assets/images/masteryi.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "assets/images/missfortune.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "assets/images/morgana.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "assets/images/yasuo.jpg",
+      "clicked": false
+    }
+  ]
